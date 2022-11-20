@@ -1,0 +1,10 @@
+create database leave_rakesh_80631;
+use leave_rakesh_80631;
+show tables;
+drop table employee;
+drop table leave1;
+drop table manager;
+describe employee;
+select * from leave1;
+select * from employee;
+select * from manager;
